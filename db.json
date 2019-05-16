@@ -1,0 +1,14 @@
+{
+  "camera": [
+    {
+      "id": 1,
+      "name": "hello",
+      "model":"1",
+      "resolution":"1236 X1040",
+      "ip":"120.121.121.221"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
